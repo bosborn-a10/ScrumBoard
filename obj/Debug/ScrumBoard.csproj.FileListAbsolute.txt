@@ -1,0 +1,10 @@
+C:\Development\ScrumBoard\ScrumBoard\bin\ScrumBoard.dll
+C:\Development\ScrumBoard\ScrumBoard\bin\ScrumBoard.pdb
+C:\Development\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.csprojResolveAssemblyReference.cache
+C:\Development\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.dll
+C:\Development\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.pdb
+C:\Development\ScrumBoard\bin\ScrumBoard.dll
+C:\Development\ScrumBoard\bin\ScrumBoard.pdb
+C:\Development\ScrumBoard\obj\Debug\ScrumBoard.csprojResolveAssemblyReference.cache
+C:\Development\ScrumBoard\obj\Debug\ScrumBoard.dll
+C:\Development\ScrumBoard\obj\Debug\ScrumBoard.pdb
